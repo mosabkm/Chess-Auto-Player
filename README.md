@@ -52,7 +52,7 @@ Make sure the executable is accessible and configure its path in the application
 
 4. Run the application
 
-python chess_auto_player1.py
+python3 chess_auto_player.py
 
 Usage
 
