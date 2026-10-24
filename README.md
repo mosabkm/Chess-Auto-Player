@@ -1,7 +1,4 @@
 # Chess-Auto-Player
-Python chess auto-player with a Tkinter GUI, screen-based board detection, FEN recognition, and Stockfish engine integration.
-Chess Auto-Player ♟️
-
 A Python-based chess auto-player with a graphical user interface (GUI), screen-based chessboard detection, FEN position recognition, and Stockfish engine integration.
 
 Version: 4.3.0
