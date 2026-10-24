@@ -30,10 +30,8 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/chess-auto-player.git
+git clone https://github.com/mosabkm/chess-auto-player.git
 cd chess-auto-player
-
-Replace "YOUR_USERNAME" with your GitHub username.
 
 2. Install Python dependencies
 
